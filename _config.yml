@@ -30,7 +30,7 @@ repository: sometimesaditi/sometimesaditi.github.io
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
